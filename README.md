@@ -1,7 +1,7 @@
 # Simple-Java-TextEditor
 
 ## Description
-Project to build a simple text editor in Java. The user may load text files into the editor as well as save to text files and print. It is possible to change the styling of the text (altough not yet possible to save the styling when closing).
+School assignment to build a simple text editor in Java. The user may load text files into the editor as well as save to text files and print. It is possible to change the styling of the text (altough not yet possible to save the styling when closing).
 
 ## Tools used
 - Java JDK 17
