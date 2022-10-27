@@ -14,3 +14,4 @@ School assignment to build a simple text editor in Java. The user may load text 
 ## Further improvements
 - Fix bug where font size wont register when new document
 - Make it possible to somehow save the styling of textdocument
+- Need to refractor and cleanup code
